@@ -2,3 +2,4 @@
 
 Patterns:
 1. Head and Shoulders.
+2. Inverse Head and Shoulders.
